@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-This is SMARTLAB, a programming club in Sangsan High School. We will upload various projects; team projects, mentoring resources, etc.
+This is SMARTLAB, a programming club in Sangsan High School.
+We will upload various projects; team projects, mentoring resources, etc.
 
 <!--
 **Sangsan-SmartLab/Sangsan-SmartLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
